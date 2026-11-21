@@ -1,6 +1,6 @@
 ---
 name: webex-ai-agent-authoring
-description: Create, edit, review or tune Webex AI Agent Studio agents and their knowledge bases via the ai-agent-studio MCP: engine choice (S2S vs cascade), prompts, actions, KBs, voice settings, validation, hand-off. Use for any AI agent build or change.
+description: "Create, edit, review or tune Webex AI Agent Studio agents and their knowledge bases via the ai-agent-studio MCP: engine choice (S2S vs cascade), prompts, actions, KBs, voice settings, validation, hand-off. Use for any AI agent build or change."
 ---
 
 # Authoring Webex AI Agent Studio agents
